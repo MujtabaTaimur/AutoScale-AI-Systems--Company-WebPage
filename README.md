@@ -49,38 +49,11 @@ Blog.html — AI-generated articles and updates
 
 Defined in Subscription.json
 
-{
-  "tier": "free | one_time | monthly",
-  "status": "active | expired | cancelled",
-  "amount_paid": 0
-}
-
-
-Integrated with SumUp Checkout and optional PayPal fallback.
-
-🧠 Automation Summary
 
 AI Writer: Regenerates copy and SEO metadata automatically.
+Workflow: Pushes new site builds to GitHub on trigger.
+Firewall: Restricts premium content until verified payment.
 
-n8n Workflow: Pushes new site builds to GitHub on trigger.
-
-Base44 Firewall: Restricts premium content until verified payment.
-
-🚀 Setup
-
-Fork or clone this repo.
-
-Enable GitHub Pages → Settings → Pages → Source: main branch.
-
-Connect to Base44/n8n using your credentials:
-
-OPENAI_API_KEY
-
-GITHUB_TOKEN
-
-(Optional) SUMUP_API_KEY
-
-Run workflow → site regenerates and deploys automatically.
 
 📡 Future Roadmap
 
