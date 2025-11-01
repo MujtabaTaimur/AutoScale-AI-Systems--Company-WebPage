@@ -1,4 +1,4 @@
-🧠 NeuroScope.ai
+#🧠 NeuroScope.ai
 
 Intelligence Evolved.
 NeuroScope.ai builds next-generation autonomous systems that learn, adapt, and evolve — combining design, cognition, and automation into one intelligent digital framework.
