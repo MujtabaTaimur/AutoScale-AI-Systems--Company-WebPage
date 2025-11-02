@@ -61,7 +61,7 @@ Integrate real-time AI dashboard.
 
 Add interactive neural animation layer.
 
-Implement API-based subscription sync (Base44 ↔ SumUp).
+Implement API-based subscription sync.
 
 🧾 License
 
